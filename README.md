@@ -39,7 +39,7 @@ Getting Started :
 git clone https://github.com/manichandana2000/CapstoneProject 
 
 usage :
-After project come reside into your local system run the UserServlet.java, file you can able to use the App choose your option as the console direct and you good to use the app
+After project come reside into your local system, file you can able to use the App choose your option as the console direct and you good to use the app
 
 Contributors:
 Vuppalapati Manichandana.
