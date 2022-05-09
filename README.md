@@ -1,45 +1,53 @@
 # CapstoneProject
-Project-2
-Hotel Management System Web App
+# Hotel_Management_System
 
-Project Description :
-project-1 hotel management system is plays a vital role for staying temporarly for outsiders.This project has four modules includes Admin
-Module to add Users,  Receptionist Module, Customer Module and Report Module. 
-In Admin Module,Admin can able to add users,update usres,delete user,search user and search all users.
-In Receptionist Module,Receptionist can able to see available rooms,check user registation,booking rooms,see the bill for specific user.
-In Customer Module, Customer can register as new customer,Book Room with Types (Normal, Deluxe, Super Deluxe, Executive Suite),Check Room
-Details,Check Bills (Till Date),Pay Bills & Checkout.
-In Report Module,we can see report of individual Customer,Check Bills (Till Date) of specific Customer,Check Total Revenue (Till Date) All
-Customer.
+Hotel_Report
+
+# DESCRPTION OF THE PROJECT
+Under The Hotel Management System (HMS) Each Group will have below moduels like 
+1. Admin Module to add Users - This module will be developed by (1) or (2) associates in group 
+2. Receptionist Module - This module will be developed by 2 associates in group 
+3. Customer Module - This module will be developed by 1 associates in group 
+4. Report Module - This module will be developed by 1 associates in group
+
+# TECHNOLOGGIES USED
+  -> JAVA
+  -> Spring Boot
+  -> Angular 10
+  -> Spring Data
+  -> Spring AOP
+  -> Jenkins
+  -> DevOps
+  -> Microservices
+  -> HTML
+  -> CSS
+  -> JavaScript
+  -> Bootstrap
+  -> JUnit
+  -> Hibernate
+
+# GETTING STARTED WITH HOW TO KEEP CODE IN GIT HUB
+1. First, you must install Git Bash.
+2. Here's where you can get Git Bash: https://github.com/git-for-windows/git/releases/download/v2.35.3.windows.1/Git-2.35.3-64-bit.exe
+3. We must look at the following while installing Git Bash: Don't choose as in Credential Manager as "none".
+4. Under The Hotel Management System (HMS) Each Group will have below moduels like 
+    -> Admin Module
+    -> Receptionist Module
+    -> Customer Module
+    -> Report Module
+5. Now crete ner repository and make sure Readme file is enabled.
+6. Now clone that repository to local repository.
+7. Copy paste the files which has java and mysql in that folder.
+8. Now commit the changes.
+9. push the code from local repository to remote repository.  
+10. Then in the pop up we have to enetr email id and password which is generated token value
+11. Then the folder is added successfully into github Github repository
 
 
-Technologies Used:
-Environment / Technologies
-HTML
 
-CSS
-
-JavaScript
-
-JDBC
-
-Java
-
-Git
-
-Docker
-
-Jenkins
-
-
-TO DO LIST :
-Some of the features which are going to update soon are 1.Rating option 2.comment box 3.Remarks 4.updating this application to GUI by using HTML,CSS,JAVA SCRIPT AND SERVLETS
-
-Getting Started :
-git clone https://github.com/manichandana2000/CapstoneProject 
-
-usage :
-After project come reside into your local system run the UserServlet.java, file you can able to use the App choose your option as the console direct and you good to use the app
-
-Contributors:
-Vuppalapati Manichandana.
+# CONTRIBUTORS
+   - ManiChandana 
+   - Rajendra
+   - Jakeer
+   - Sravan Pavan Kumar
+   
