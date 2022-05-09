@@ -43,40 +43,9 @@ Under The Hotel Management System (HMS) Each Group will have below moduels like
 10. Then in the pop up we have to enetr email id and password which is generated token value
 11. Then the folder is added successfully into github Github repository
 
-
-
-<<<<<<< HEAD
 # CONTRIBUTORS
    - ManiChandana 
    - Rajendra
    - Jakeer
    - Sravan Pavan Kumar
    
-=======
-CSS
-
-JavaScript
-
-JDBC
-
-Java
-
-Git
-
-Docker
-
-Jenkins
-
-
-TO DO LIST :
-Some of the features which are going to update soon are 1.Rating option 2.comment box 3.Remarks 4.updating this application to GUI by using HTML,CSS,JAVA SCRIPT AND SERVLETS
-
-Getting Started :
-git clone https://github.com/manichandana2000/CapstoneProject 
-
-usage :
-After project come reside into your local system, file you can able to use the App choose your option as the console direct and you good to use the app
-
-Contributors:
-Vuppalapati Manichandana.
->>>>>>> 5eed2081ab33134143f7c3e909442c1e024e179b
