@@ -35,7 +35,7 @@ Under The Hotel Management System (HMS) Each Group will have below moduels like
     -> Receptionist Module
     -> Customer Module
     -> Report Module
-5. Now crete ner repository and make sure Readme file is enabled.
+5. Now crete new repository and make sure Readme file is enabled.
 6. Now clone that repository to local repository.
 7. Copy paste the files which has java and mysql in that folder.
 8. Now commit the changes.
