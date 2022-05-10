@@ -37,7 +37,7 @@ Under The Hotel Management System (HMS) Each Group will have below moduels like
     -> Report Module
 5. Now crete new repository and make sure Readme file is enabled.
 6. Now clone that repository to local repository.
-7. Copy paste the files which has java and mysql in that folder.
+7. Copy paste the files which has code in that folder.
 8. Now commit the changes.
 9. push the code from local repository to remote repository.  
 10. Then in the pop up we have to enetr email id and password which is generated token value
